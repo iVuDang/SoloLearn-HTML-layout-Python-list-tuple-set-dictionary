@@ -6,12 +6,14 @@ Courses completed: JavaScript, Python, SQL, React+Redux.
 
 ## Proof of completion (certificates)
 * JavaScript:
+* React+Redux: https://www.sololearn.com/Certificate/1097-18375186/jpg/
+* SQL: 
 * Python for Beginners:
 * Python Core: 
 * Python Intermediate:
 * Python Data Structures
 * Python for Data Science: 
-* React+Redux: https://www.sololearn.com/Certificate/1097-18375186/jpg/
+
 
 
 
