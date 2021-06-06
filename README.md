@@ -2,7 +2,7 @@
 Courses completed: JavaScript, Python, SQL, React+Redix. 
 
 ## Purpose: 
-* To keep record of courses I completed in SoloLearn to supplement introductory and background knowledge on 
+* Record of courses I completed in SoloLearn to supplement background knowledge on the topics below.  
 
 
 ## Proof of completion (certifications)
