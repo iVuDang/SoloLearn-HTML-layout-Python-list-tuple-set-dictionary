@@ -6,9 +6,9 @@ Courses completed: JavaScript, Python, SQL, React+Redix.
 
 
 ## Proof of completion (certifications)
-* React+Redux: [https://www.sololearn.com/Certificate/1097-18375186/jpg/]
+* React+Redux: [React+Redux certificate of completion](https://www.sololearn.com/Certificate/1097-18375186/jpg/)
 
-[I'm an inline-style link](https://www.google.com)
+
 
 
 
