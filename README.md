@@ -13,6 +13,9 @@ Courses completed: JavaScript, Python, SQL, React+Redux.
 * Python Intermediate:
 * Python Data Structures
 * Python for Data Science: 
+* HTML:
+* CSS: 
+* Responsive Web Design: 
 
 
 
