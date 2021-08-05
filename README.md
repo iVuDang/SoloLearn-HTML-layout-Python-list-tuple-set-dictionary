@@ -19,7 +19,7 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 | 9 | Python Intermediate  |   |
 | 10 | Python Data Structures  |   |
 | 11 | Python for Data Science  |   |
-| 12 | Java  | Content Cell  |
+| 12 | Java  |   |
 
 
 
