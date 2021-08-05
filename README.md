@@ -19,6 +19,12 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 - [ ] 12. Java:
 
 
+| Course  | Certificate |
+| ------------- | ------------- |
+| HTML  | https://www.sololearn.com/Certificate/1014-18375186/jpg  |
+| Content Cell  | Content Cell  |
+
+
 
 
 
