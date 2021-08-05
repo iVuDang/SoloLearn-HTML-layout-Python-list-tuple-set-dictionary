@@ -7,7 +7,7 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 ## Proof of completion (certificates)
 
 | # | Course  | Certificate |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | 1 | HTML  | https://www.sololearn.com/Certificate/1014-18375186/jpg  |
 | 2 | CSS  | https://www.sololearn.com/Certificate/1023-18375186/jpg  |
 | 3 | Responsive Web Design  | https://www.sololearn.com/Certificate/1162-18375186/jpg  |
