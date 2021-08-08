@@ -78,7 +78,7 @@ WHERE condition
 
 The LIKE keyword is useful when specifying a search condition within your WHERE clause.
 
-Supplement from: https://www.w3schools.com/sql/sql_like.asp
+Additional Supplement from: https://www.w3schools.com/sql/sql_like.asp
 
 There are two wildcards often used in conjunction with the LIKE operator:
 * The percent sign (%) represents zero, one, or multiple characters
