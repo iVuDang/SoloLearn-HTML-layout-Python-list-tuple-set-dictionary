@@ -85,7 +85,7 @@ let person = {
 
 Can access age of our person in two ways: 
 
-object.name
+object.name <br>
 object['name']
 
 ```
