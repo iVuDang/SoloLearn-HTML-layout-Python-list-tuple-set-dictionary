@@ -68,7 +68,29 @@ The HTML layout:
 
 - - - -
 ### SQL
-*
+The syntax for the WHERE clause:
+
+SELECT column_list 
+FROM table_name 
+WHERE condition 
+
+The LIKE keyword is useful when specifying a search condition within your WHERE clause.
+
+Supplement from: https://www.w3schools.com/sql/sql_like.asp
+
+There are two wildcards often used in conjunction with the LIKE operator:
+* The percent sign (%) represents zero, one, or multiple characters
+* The underscore sign (_) represents one, single character
+
+```
+WHERE CustomerName LIKE 'a%' 	Finds any values that start with "a"
+WHERE CustomerName LIKE '%a' 	Finds any values that end with "a"
+WHERE CustomerName LIKE '%or%' 	Finds any values that have "or" in any position
+WHERE CustomerName LIKE '_r%' 	Finds any values that have "r" in the second position
+WHERE CustomerName LIKE 'a_%' 	Finds any values that start with "a" and are at least 2 characters in length
+WHERE CustomerName LIKE 'a__%' 	Finds any values that start with "a" and are at least 3 characters in length
+WHERE ContactName LIKE 'a%o' 	Finds any values that start with "a" and ends with "o"
+```
 
 - - - -
 ### Python
