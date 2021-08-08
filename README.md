@@ -70,9 +70,11 @@ The HTML layout:
 ### SQL
 The syntax for the WHERE clause:
 
+```
 SELECT column_list 
 FROM table_name 
 WHERE condition 
+```
 
 The LIKE keyword is useful when specifying a search condition within your WHERE clause.
 
