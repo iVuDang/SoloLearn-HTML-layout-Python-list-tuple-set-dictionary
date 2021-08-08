@@ -23,8 +23,42 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 
 
 ## Favorite Key Takeaways :star:
-### HTML / CSS
-*
+### HTML 
+The HTML layout:
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset=”UTF-8”>
+  <meta name=”description” content=”iVuDang”> 
+  <meta name=”keywords” content=”iVuDang, Vu Dang”>
+  <metaname=”author” content=”Vu Dang”>
+  <meta name=”viewport” content=”width=device-width, initial-scale=1”>
+  <title>iVuDang</title> 
+</head> 
+
+<body>
+
+  <main> 
+    <section>
+      <article>
+        
+        <header>
+          <h2>  </h2>
+          <p> </p>
+        </header>
+        
+        <p> </p>
+      </article>
+    </section> 
+  </main> 
+ 
+  <footer>
+  </footer> 
+</body>
+</html>
+
 
 - - - -
 ### JavaScript
