@@ -42,6 +42,7 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 | Set | No | Yes | { } | {1, 2, 3}
 | Dictionary | No | Yes | { } | {'One': 1, 'Two': 2, 'Three': 3} 
 
+'''
 **When to use a dictionary:**
 - When you need a logical association between a key:value pair. 
 - When you need fast lookup for your data, based on a custom key. 
@@ -52,3 +53,4 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 - Use a set if you need uniqueness for the elements. 
 - Use tuples when your data cannot change. 
 Many times, a tuple is used in combination with a dictionary, for example, a tuple might represent a key, because it's immutable. 
+'''
