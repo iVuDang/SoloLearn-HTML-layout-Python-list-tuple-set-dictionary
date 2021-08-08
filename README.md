@@ -52,6 +52,7 @@ The HTML layout:
   </main> 
  
   <footer> </footer> 
+  
 </body>
 
 </html>
