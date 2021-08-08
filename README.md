@@ -26,6 +26,7 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 ### HTML 
 The HTML layout:
 
+```
 <!DOCTYPE html>
 <html>
 
@@ -58,7 +59,7 @@ The HTML layout:
   </footer> 
 </body>
 </html>
-
+```
 
 - - - -
 ### JavaScript
