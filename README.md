@@ -60,6 +60,13 @@ The HTML layout:
 
 - - - -
 ### CSS
+All HTML elements can be considered as boxes. The CSS box model represents the design and layout of the site. It consists of margins, borders, paddings, and the actual content. 
+
+Hence, it is a useful practice to initially set a colored border to visualize our box elements when in the early phases of structuring our web content e.g.:
+
+```
+  border: 2px solid red;
+```
 
 
 - - - -
