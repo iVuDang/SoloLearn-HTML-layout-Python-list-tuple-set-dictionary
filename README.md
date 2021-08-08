@@ -33,7 +33,7 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 *
 
 ### Python
-1. Data Structures
+1. Python supports the following data structures: lists, dictionaries, tuples, sets. 
 
 | Data Structure | Ordered  | Mutable | Constructor | Example |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -41,8 +41,6 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 | Tuple | Yes | No | ( ) | (1, 2, 3)
 | Set | No | Yes | { } | {1, 2, 3}
 | Dictionary | No | Yes | { } | {'One': 1, 'Two': 2, 'Three': 3} 
-
-Python supports the following data structures: lists, dictionaries, tuples, sets. 
 
 **When to use a dictionary:**
 - When you need a logical association between a key:value pair. 
