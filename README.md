@@ -71,7 +71,31 @@ Hence, it is a useful practice to initially set a colored border to visualize ou
 
 - - - -
 ### JavaScript
-* 
+JavaScript variables are containers for data values. Objects are variables too, but they can contain many values. 
+
+Think of an object as a list of values that are written as name:value pairs, with the names and the values separated by colons. 
+```
+let person = {
+	name: 'John', 
+	age: 31,
+	favColor: 'green',
+	height: 183
+};
+```
+
+Can access age of our person in two ways: 
+
+object.name
+object['name']
+
+```
+let x = person.age;
+let y = person['age']
+```
+
+Output: 31
+
+
 
 - - - -
 ### SQL
