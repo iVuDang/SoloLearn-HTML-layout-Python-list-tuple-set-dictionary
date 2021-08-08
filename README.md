@@ -34,10 +34,11 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 
 ### Python
 1. Data Structures
+
 | Data Structure | Ordered  | Mutable | Constructor | Example |
-| ------------- | ------------- | ------------- |------------- |------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | List | Yes | Yes | [ ] | [1, 2, 3] 
-| Tuple | No | ( ) | (1, 2, 3)
+| Tuple | Yes | No | ( ) | (1, 2, 3)
 | Set | No | Yes | { } | {1, 2, 3}
 | Dictionary | No | Yes | { } | {'One': 1, 'Two': 2, 'Three': 3} 
 
