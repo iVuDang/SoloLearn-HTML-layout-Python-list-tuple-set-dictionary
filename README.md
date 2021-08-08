@@ -32,11 +32,11 @@ The HTML layout:
 <html>
 
 <head>
-  <meta charset=”UTF-8”>
-  <meta name=”description” content=”iVuDang”> 
-  <meta name=”keywords” content=”iVuDang, Vu Dang”>
-  <metaname=”author” content=”Vu Dang”>
-  <meta name=”viewport” content=”width=device-width, initial-scale=1”>
+  <meta charset='UTF-8'>
+  <meta name='description' content='iVuDang'> 
+  <meta name='keywords' content='iVuDang, Vu Dang'>
+  <metaname='author' content='Vu Dang'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
   <title>iVuDang</title> 
 </head> 
 
