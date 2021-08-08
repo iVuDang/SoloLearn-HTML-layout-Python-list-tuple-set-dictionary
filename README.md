@@ -23,6 +23,7 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 
 
 ## Favorite Key Takeaways :star:
+- - - -
 ### HTML 
 The HTML layout:
 
@@ -60,6 +61,10 @@ The HTML layout:
 </body>
 </html>
 ```
+
+- - - -
+### CSS
+
 
 - - - -
 ### JavaScript
