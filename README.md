@@ -22,7 +22,7 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 | 12 | Java  |   |
 
 
-## Favorite Key Takeaways
+## Favorite Key Takeaways :star:
 ### HTML / CSS
 *
 
