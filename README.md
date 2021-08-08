@@ -43,22 +43,17 @@ The HTML layout:
 <body>
 
   <main> 
-    <section>
-      <article>
-        
-        <header>
-          <h2>  </h2>
-          <p> </p>
-        </header>
-        
-        <p> </p>
-      </article>
-    </section> 
+  
+    <article>
+      <section> 
+      </section> 
+    </article>
+    
   </main> 
  
-  <footer>
-  </footer> 
+  <footer> </footer> 
 </body>
+
 </html>
 ```
 
