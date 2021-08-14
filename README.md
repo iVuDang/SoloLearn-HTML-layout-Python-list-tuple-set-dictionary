@@ -149,10 +149,10 @@ WHERE ContactName LIKE 'a%o' 	Finds any values that start with "a" and ends with
 Many times, a tuple is used in combination with a dictionary, for example, a tuple might represent a key, because it's immutable. 
 
 
-## Moving Forward - Vu's Software Stack Roadmap :atom: :electron: :earth_asia: :world_map:
+## Moving Forward - Vu's Software Stack Roadmap :earth_asia: :world_map:
 
 | | **FRONT END**  |  |  | **BACK END** | Constructor | **UI/UX DESIGN** |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
-| **Base Language** | | | | | | |
-| **Frameworks / Libraries** | | | | | | |
-| **Cross-platform** | | | | | | |
+| **Base Language** | HTML | CSS | JavaScript | Python | SQL | Adobe Photoshop|
+| **Frameworks / Libraries** | | Bootstrap | React.js | Django | | Adobe Premiere Pro | 
+| **Cross-platform** | | | Express.js / Node.js | | MongoDB | Adobe After Effects |
