@@ -148,3 +148,11 @@ WHERE ContactName LIKE 'a%o' 	Finds any values that start with "a" and ends with
 - Use tuples when your data cannot change. 
 Many times, a tuple is used in combination with a dictionary, for example, a tuple might represent a key, because it's immutable. 
 
+
+## Moving Forward - Vu's Software Stack Roadmap :atom: :electron: :earth_asia: :world_map
+
+| | **FRONT END**  |  |  | **BACK END** | Constructor | **UI/UX DESIGN** |
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
+| **Base Language** | | | | | | |
+| **Frameworks / Libraries** | | | | | | |
+| **Cross-platform** | | | | | | |
