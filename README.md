@@ -151,7 +151,7 @@ Many times, a tuple is used in combination with a dictionary, for example, a tup
 
 ## Moving Forward - Vu's Software Stack Roadmap :earth_asia: :world_map:
 
-| | **FRONT END**  |  |  | **BACK END** |  | **UI/UX DESIGN** |
+| | **FRONT END**  | -- | -- | **BACK END** | -- | **UI/UX DESIGN** |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
 | **Base Language** | HTML | CSS | JavaScript | Python | SQL | Adobe Photoshop|
 | **Frameworks / Libraries** | | Bootstrap | React.js | Django | | Adobe Premiere Pro | 
