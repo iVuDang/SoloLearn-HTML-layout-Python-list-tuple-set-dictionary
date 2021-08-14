@@ -17,7 +17,7 @@ Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
 | 7 | Python for Beginners  | https://www.sololearn.com/certificates/course/en/18375186/1157/landscape/png |
 | 8 | Python Core  | https://www.sololearn.com/certificates/course/en/18375186/1073/landscape/png  |
 | 9 | Python Intermediate  |   https://www.sololearn.com/certificates/course/en/18375186/1158/landscape/png	|
-| 10 | Python Data Structures  |   |
+| 10 | Python Data Structures  | https://www.sololearn.com/certificates/course/en/18375186/1159/landscape/png  |
 | 11 | Python for Data Science  |   |
 | 12 | Java  |   |
 
