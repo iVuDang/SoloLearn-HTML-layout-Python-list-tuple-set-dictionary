@@ -156,3 +156,8 @@ Many times, a tuple is used in combination with a dictionary, for example, a tup
 | **Base Language** | HTML | CSS | JavaScript | Python | SQL | Java | Adobe Photoshop|
 | **Frameworks / Libraries** | | Bootstrap | React.js | Django | | | Adobe Premiere Pro | 
 | **Cross-platform** | | | Express.js / Node.js | | MongoDB | | Adobe After Effects |
+
+
+## Vu's Human Language Stack Roadmap :speech_balloon:
+English >> Vietnamese >> Spanish >> Portuguese? French? Hebrew? Mandarin? 
+
