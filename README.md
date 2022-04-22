@@ -156,5 +156,8 @@ Many times, a tuple is used in combination with a dictionary, for example, a tup
 
 
 ## Vu's Human Language Stack Roadmap :speech_balloon:
-English >> Vietnamese >> Spanish >> Portuguese? French? Hebrew? Mandarin? 
+| Premiero  | Segunda | Tercero | Cuarto | 
+| ------------- | ------------- | ------------- | ------------- | 
+| English | Vietnamese | Spanish | Portuguese? French? |
+
 
