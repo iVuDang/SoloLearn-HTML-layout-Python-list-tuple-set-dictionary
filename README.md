@@ -150,7 +150,7 @@ Many times, a tuple is used in combination with a dictionary, for example, a tup
 
 | | **FRONT END**  | >> | >> | **BACK END** | >> | >> | **UI/UX DESIGN** |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
-| **Base Language** | HTML | CSS | JavaScript | Python | SQL | Java | Adobe Photoshop|
+| **Base Language** | Excel/VBA | HTML/CSS | JavaScript | Python | SQL | Java | Adobe Photoshop|
 | **Frameworks / Libraries** | | Bootstrap | React.js | Django | | | Adobe Premiere Pro | 
 | **Cross-platform** | | | Express.js / Node.js | | MongoDB | | Adobe After Effects |
 
