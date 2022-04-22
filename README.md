@@ -13,7 +13,7 @@
 
 
 # Vu's Human Language Stack Roadmap :speech_balloon:
-| Premiero  | Segunda | Tercero | Cuarto | 
+| Primero  | Segunda | Tercero | Cuarto | 
 | ------------- | ------------- | ------------- | ------------- | 
 | English | Vietnamese | Spanish | Portuguese? French? |
 
