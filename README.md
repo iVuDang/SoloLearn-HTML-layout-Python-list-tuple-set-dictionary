@@ -1,10 +1,7 @@
-# SoloLearn-certificates
-Courses completed: HTML, CSS, JavaScript, React+Redux, SQL, Python.
-
-## Purpose: 
+# Purpose: 
 * Courses I completed in SoloLearn to supplement background knowledge on languages. 
 
-## Proof of completion (certificates)
+## Proof of completion (SoloLearn certificates)
 
 | # | Course  | Certificate |
 | ------------- | ------------- | ------------- |
