@@ -1,5 +1,22 @@
-# Purpose: 
-* Courses I completed in SoloLearn to supplement background knowledge on languages. 
+# Purpose:
+* Outline my plan and software stack roadmap. 
+* Supplement knowledge with SoloLearn introduction tutorials.  
+
+
+# Vu's Software Stack Roadmap :earth_asia: 
+
+| | **FRONT END**  | >> | >> | **BACK END** | >> | >> | **UI/UX DESIGN** |
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
+| **Base Language** | Excel/VBA | HTML/CSS | JavaScript | Python | SQL | Java | Adobe Photoshop|
+| **Frameworks / Libraries** | | Bootstrap | React.js | Django | | | Adobe Premiere Pro | 
+| **Cross-platform** | | | Express.js / Node.js | | MongoDB | | Adobe After Effects |
+
+
+# Vu's Human Language Stack Roadmap :speech_balloon:
+| Premiero  | Segunda | Tercero | Cuarto | 
+| ------------- | ------------- | ------------- | ------------- | 
+| English | Vietnamese | Spanish | Portuguese? French? |
+
 
 ## Proof of completion (SoloLearn certificates)
 
@@ -146,18 +163,5 @@ WHERE ContactName LIKE 'a%o' 	Finds any values that start with "a" and ends with
 Many times, a tuple is used in combination with a dictionary, for example, a tuple might represent a key, because it's immutable. 
 
 
-## Moving Forward - Vu's Software Stack Roadmap :earth_asia: 
-
-| | **FRONT END**  | >> | >> | **BACK END** | >> | >> | **UI/UX DESIGN** |
-| ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
-| **Base Language** | Excel/VBA | HTML/CSS | JavaScript | Python | SQL | Java | Adobe Photoshop|
-| **Frameworks / Libraries** | | Bootstrap | React.js | Django | | | Adobe Premiere Pro | 
-| **Cross-platform** | | | Express.js / Node.js | | MongoDB | | Adobe After Effects |
-
-
-## Vu's Human Language Stack Roadmap :speech_balloon:
-| Premiero  | Segunda | Tercero | Cuarto | 
-| ------------- | ------------- | ------------- | ------------- | 
-| English | Vietnamese | Spanish | Portuguese? French? |
 
 
