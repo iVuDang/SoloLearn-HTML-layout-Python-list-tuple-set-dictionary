@@ -15,7 +15,13 @@
 # Vu's Human Language Stack Roadmap :speech_balloon:
 | Primero  | Segunda | Tercero | Cuarto | 
 | ------------- | ------------- | ------------- | ------------- | 
-| English | Vietnamese | Spanish | Portuguese? French? |
+| English | Vietnamese | Spanish | Portuguese? |
+
+
+# Vu's Physical Stack Roadmap :cherry_blossom:
+| Striking  | Takedown | Grappling |
+| ------------- | ------------- | ------------- |
+| Muay Thai | Judo | Jiu-Jitsu | 
 
 
 ## Proof of completion (SoloLearn certificates)
