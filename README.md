@@ -17,8 +17,6 @@
 | ------------- | ------------- | ------------- | ------------- | 
 | English | Vietnamese | Spanish | Portuguese? |
 
-
-# Vu's Physical Stack Roadmap :cherry_blossom:
 | Striking  | Takedown | Grappling |
 | ------------- | ------------- | ------------- |
 | Muay Thai | Judo | Jiu-Jitsu | 
