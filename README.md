@@ -19,7 +19,7 @@
 
 | Striking  | Takedown | Grappling |
 | ------------- | ------------- | ------------- |
-| Muay Thai | Judo | Jiu-Jitsu | 
+| Muay Thai / Boxing | Judo / Wrestling | Jiu-Jitsu | 
 
 
 ## Proof of completion (SoloLearn certificates)
