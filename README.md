@@ -13,9 +13,9 @@
 
 
 # Vu's Human Language Stack Roadmap :speech_balloon:
-| Primero  | Segunda | Tercero | Cuarto | 
-| ------------- | ------------- | ------------- | ------------- | 
-| English | Vietnamese | Spanish | Portuguese? |
+| Primero  | Segundo | Tercero | Cuarto | 
+| ------------- | ------------- | ------------- |  
+| English | Vietnamese | Spanish | ? |
 
 | Striking  | Takedown | Grappling |
 | ------------- | ------------- | ------------- |
