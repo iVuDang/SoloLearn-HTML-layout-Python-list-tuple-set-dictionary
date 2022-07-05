@@ -17,7 +17,7 @@
 | ------------- | ------------- | ------------- | ------------- |  
 | English | Vietnamese | Spanish | ? |
 
-| Striking  | Takedown | Grappling |
+| Striking  | Takedown | Ground |
 | ------------- | ------------- | ------------- |
 | Muay Thai / Boxing | Judo / Wrestling | Jiu-Jitsu | 
 
