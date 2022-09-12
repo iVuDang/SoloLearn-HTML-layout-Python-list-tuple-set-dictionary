@@ -6,7 +6,7 @@
 # Vu's Software Stack Roadmap :earth_asia: 
 
 | | **FRONT END**  | >> | >> | **BACK END** | >> | >> | **UI/UX DESIGN** | **DATA MODELING** |
-| ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |------------- |
 | **Base Language** | Excel/VBA | HTML/CSS | JavaScript | Python | SQL | Java | Adobe Photoshop| Arteryx |
 | **Frameworks / Libraries** | | Bootstrap | React.js | Django | | | Adobe Premiere Pro | Tableau |
 | **Cross-platform** | | | Express.js / Node.js | | MongoDB | | Adobe After Effects | Power BI |
