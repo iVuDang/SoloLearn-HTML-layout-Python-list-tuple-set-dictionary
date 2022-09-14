@@ -1,25 +1,5 @@
 # Purpose:
-* Outline my plan and software stack roadmap. 
-* Supplement knowledge with SoloLearn introduction tutorials.  
-
-
-# Vu's Software Stack Roadmap :earth_asia: 
-
-| | **FRONT END**  | >> | >> | **BACK END** | >> | >> | **UI/UX DESIGN** | **DATA MODELING** |
-| ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |------------- |
-| **Base Language** | Excel/VBA | HTML/CSS | JavaScript | Python | SQL | Java | Adobe Photoshop| Arteryx |
-| **Frameworks / Libraries** | | Bootstrap | React.js | Django | | | Adobe Premiere Pro | Tableau |
-| **Cross-platform** | | | Express.js / Node.js | | MongoDB | | Adobe After Effects | Power BI |
-
-
-# Vu's Human Language Stack Roadmap :speech_balloon:
-| Primero  | Segundo | Tercero | Cuarto | 
-| ------------- | ------------- | ------------- | ------------- |  
-| English | Vietnamese | Spanish | ? |
-
-| Striking  | Takedown | Ground |
-| ------------- | ------------- | ------------- |
-| Muay Thai / Boxing | Judo / Wrestling | Jiu-Jitsu | 
+* Notes from completing SoloLearn tutorials. 
 
 
 ## Proof of completion (SoloLearn certificates)
