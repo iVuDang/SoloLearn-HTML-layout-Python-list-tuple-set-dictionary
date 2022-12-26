@@ -24,6 +24,7 @@
 - - - -
 ### HTML 
 The HTML layout:
+(Link to CSS in head, link to JavaScript last in footer. Load the HTML/CSS first, JavaScript takes longer and can load last). 
 
 ```
 <!DOCTYPE html>
@@ -36,6 +37,14 @@ The HTML layout:
   <metaname='author' content='Vu Dang'>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
   <title>iVuDang</title> 
+
+  <meta property='og:title' content='Vu Dang, CPA'/>
+  <meta property='og:image' content='https://ivudang.com/images/japan.JPG'/>
+  <meta property='og:description' content='Website Portfolio built by Vu Dang'/>
+  <meta property='og:url' content='https://www.ivudang.com/'/>
+  <meta property="og:type" content="website" />
+
+  <link href="styles/pg1-home.css" rel="stylesheet">
 </head> 
 
 <body>
