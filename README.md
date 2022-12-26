@@ -24,6 +24,7 @@
 - - - -
 ### HTML 
 The HTML layout:
+<br>
 (Link to CSS in head, link to JavaScript last in footer. Load the HTML/CSS first, JavaScript takes longer and can load last). 
 
 ```
