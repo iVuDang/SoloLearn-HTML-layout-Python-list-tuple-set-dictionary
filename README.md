@@ -117,6 +117,8 @@ WHERE condition
 
 The LIKE keyword is useful when specifying a search condition within your WHERE clause.
 
+In relationship databases, a piece of string data should only appear once (avoid redundant data, it should only appear once in a table and linked to other tables). Keys are ideally integers e.g. ID. 
+
 Additional Supplement from: https://www.w3schools.com/sql/sql_like.asp
 
 There are two wildcards often used in conjunction with the LIKE operator:
